@@ -1,0 +1,26 @@
+Body{
+    background-image: linear-gradient(to top, #f43b47 0%, #453a94 100%);
+    text-align: center;
+}
+
+.i4{
+    border-color:yellow;
+    background-color: cornsilk;
+    border-radius:5px;
+    width:250px;
+    height:40px;
+    box-shadow: red;
+    font-size:19px;
+}
+.i5{
+    font-size:20px;
+}
+.div1{
+    text-align: center;
+    border: 3px solid black;
+    border-radius: 20px;
+    width: 500px;
+    /* margin-left: 400px; */
+    float:right
+
+}

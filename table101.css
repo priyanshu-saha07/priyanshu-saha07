@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(226, 193, 193);
+    text-align: center;
+    padding-left: 180px;
+}
+
+.table0{
+    background-color: chocolate 6px;
+    text-align:center;
+    
+}
+
+.tr1{
+    border: 2px solid;
+    width:100px;
+    height:50px;
+}
+.td1{
+    width: 150px;
+    height: 60px;
+    border: 2px solid black;
+}

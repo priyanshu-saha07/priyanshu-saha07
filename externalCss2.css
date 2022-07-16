@@ -1,0 +1,30 @@
+body{
+    padding:10px;
+    margin: 10px;
+    background-color: yellow;
+    text-align: start;
+}
+.div{
+    color:red;
+    background-color: bisque;
+    border:black 3px solid;
+    border-radius: 22px;
+    height: 100px;
+    width: 500px;
+
+}
+#div{
+    color: rgb(187, 19, 19);
+    background-color:rgb(162, 36, 173);
+    border:black 3px solid;
+    height:100px;
+    width:500px;
+    text-align:center;
+   border-radius:20px;
+}
+h1{
+    color:red;
+    background-color:sandybrown;
+    opacity: 80%;
+}
+

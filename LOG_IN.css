@@ -1,0 +1,39 @@
+
+
+
+.div0{
+    border: 3px solid cyan;
+    width: 450px;
+    height: 400px;
+    padding: 5px;
+    background-color: black;
+    border-radius: 30px;
+}
+.btn1{
+    width: 80px;
+    height: 30px;
+    background-color: blue;
+    border: 0px;
+    border-radius: 40px;
+}
+.btn1:hover{
+    background-color: chartreuse;
+    color: blue;
+    box-shadow: 2px 3px 1px rgb(82, 61, 61);
+}
+#id1{
+    color:chartreuse
+}
+.i12{
+    height:30px;
+    width:180px;
+    color:Red;
+    border-radius:5px;
+}
+/* body{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 1200px;
+} */
+
